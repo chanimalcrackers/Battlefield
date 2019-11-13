@@ -571,3 +571,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-00.24.11:862][487]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2019.11.13-00.24.11:862][487]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Content/Developers/DavidChan/Collections/' because it could not be accessed. Aborting watch request...
 [2019.11.13-00.24.12:200][488]LogDirectoryWatcher: A directory notification failed for 'C:/Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.13-00.45.53:867][ 95]LogSlate: Window 'New Level' being destroyed
+[2019.11.13-00.45.53:891][ 95]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.13-00.45.53:908][ 95]LogSlate: Took 0.005610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.13-00.45.53:921][ 95]LightingResults: New page: Lighting Build
+[2019.11.13-00.45.53:922][ 95]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.11.13-00.45.53:926][ 95]MapCheck: New page: Map Check
+[2019.11.13-00.45.53:926][ 95]LightingResults: New page: Lighting Build
+[2019.11.13-00.45.53:964][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.13-00.45.54:023][ 95]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.13-00.45.54:037][ 95]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.13-00.45.54:064][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.11.13-00.45.54:068][ 95]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.13-00.45.54:068][ 95]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2019.11.13-00.45.54:068][ 95]LogFileHelpers: Loading map 'Template_Default' took 0.180
+[2019.11.13-00.45.54:815][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.13-00.45.56:383][339]Cmd: DELETE
+[2019.11.13-00.45.56:383][339]Cmd: ACTOR DELETE
+[2019.11.13-00.45.56:407][339]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.13-00.45.56:432][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.11.13-00.45.56:433][339]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.11.13-00.46.00:691][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.46.01:670][908]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.11.13-00.46.13:847][351]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.13-00.46.31:190][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.46.34:524][776]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.11.13-00.47.09:033][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.47.47:115][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.47.55:616][458]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.47.58:153][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.48.39:890][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.48.59:613][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.49.16:257][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.49.25:291][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.49.27:080][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.49.33:434][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.49.44:789][379]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.11.13-00.52.34:657][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-00.55.51:924][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.13-00.55.51:966][789]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.13-00.55.52:076][789]LogSavePackage: Moving '../../../../../../Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Saved/Untitled_1_Auto1F8674FD3436BDA7CB6C7989C058A37B4.tmp' to '../../../../../../Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.11.13-00.55.52:082][789]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.182
+[2019.11.13-00.55.52:082][789]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
