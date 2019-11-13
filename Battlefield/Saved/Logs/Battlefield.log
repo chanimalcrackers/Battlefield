@@ -614,3 +614,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-00.55.52:082][789]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.182
 [2019.11.13-00.55.52:082][789]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
 [2019.11.13-01.04.57:273][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.11.11:718][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.11.45:048][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.12.20:018][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.11.13-01.12.20:209][338]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.13-01.12.20:334][338]LogSavePackage: Moving '../../../../../../Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Saved/Untitled_1_Auto2B27C46A14456A5C61CAF5CB4D9E7C40E.tmp' to '../../../../../../Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2019.11.13-01.12.20:338][338]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.345
+[2019.11.13-01.12.20:338][338]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.345
+[2019.11.13-01.16.57:086][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.17.10:946][686]Cmd: ACTOR SELECT ALL
+[2019.11.13-01.17.12:150][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.17.13:808][ 15]Cmd: DELETE
+[2019.11.13-01.17.13:808][ 15]Cmd: ACTOR DELETE
+[2019.11.13-01.17.13:811][ 15]LogEditorActor: Deleted Actor: Landscape
+[2019.11.13-01.17.13:856][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.11.13-01.17.13:857][ 15]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.11.13-01.17.15:850][251]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2019.11.13-01.20.01:224][ 72]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 256X256)
+[2019.11.13-01.20.22:530][581]Cmd: TRANSACTION UNDO
+[2019.11.13-01.20.22:530][581]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.13-01.20.22:560][581]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 256X256)
+[2019.11.13-01.20.23:003][624]Cmd: TRANSACTION UNDO
+[2019.11.13-01.20.23:003][624]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.13-01.20.23:030][624]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 256X256)
+[2019.11.13-01.20.33:657][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.20.39:690][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.20.51:296][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.20.55:205][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.21.00:796][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.21.16:692][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.21.16:776][942]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-01.21.16:791][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.13-01.21.16:793][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.13-01.21.16:800][942]PIE: New page: PIE session: Untitled_1 (Nov 12, 2019, 1:21:16 PM)
+[2019.11.13-01.21.16:822][942]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.11.13-01.21.16:840][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018191s)
+[2019.11.13-01.21.16:842][942]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.13-01.21.16:843][942]LogPlayLevel: PIE: World Init took: (0.002420s)
+[2019.11.13-01.21.16:843][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.021028s)
+[2019.11.13-01.21.16:866][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.11.13-01.21.16:884][942]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-01.21.16:911][942]LogInit: FAudioDevice initialized.
+[2019.11.13-01.21.16:964][942]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.13-01.21.16:976][942]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.11.12-19.21.16
+[2019.11.13-01.21.16:978][942]LogWorld: Bringing up level for play took: 0.002728
+[2019.11.13-01.21.17:005][942]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.13-01.21.17:023][942]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.11.13-01.21.17:039][942]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.108
+[2019.11.13-01.21.17:039][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.13-01.21.18:148][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.13-01.21.18:149][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-01.21.18:177][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.13-01.21.18:177][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.13-01.21.18:209][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-01.21.18:217][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.13-01.21.18:257][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.11.13-01.21.21:559][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.21.21:876][492]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.13-01.21.28:404][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.21.32:469][739]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.11.13-01.21.33:992][919]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.13-01.21.35:213][ 62]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.13-01.21.36:115][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.21.36:215][179]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-01.21.36:226][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.13-01.21.36:226][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.13-01.21.36:226][179]PIE: New page: PIE session: Untitled_1 (Nov 12, 2019, 1:21:36 PM)
+[2019.11.13-01.21.36:226][179]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.11.13-01.21.36:245][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018937s)
+[2019.11.13-01.21.36:246][179]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.13-01.21.36:254][179]LogPlayLevel: PIE: World Init took: (0.008887s)
+[2019.11.13-01.21.36:254][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.028209s)
+[2019.11.13-01.21.36:278][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.11.13-01.21.36:285][179]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-01.21.36:309][179]LogInit: FAudioDevice initialized.
+[2019.11.13-01.21.36:335][179]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.13-01.21.36:336][179]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.11.12-19.21.36
+[2019.11.13-01.21.36:336][179]LogWorld: Bringing up level for play took: 0.000505
+[2019.11.13-01.21.36:350][179]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.797
+[2019.11.13-01.21.36:350][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.13-01.21.48:822][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.13-01.21.48:823][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-01.21.48:850][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.13-01.21.48:850][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.11.13-01.21.48:879][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-01.21.48:882][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.11.13-01.21.48:929][671]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.11.13-01.22.34:157][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.22.34:191][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.11.13-01.22.34:279][ 95]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 256X256)
+[2019.11.13-01.22.34:384][ 95]LogSavePackage: Moving '../../../../../../Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Saved/Untitled_1_Auto3BE0131874BD6F33BF9DC1080918C6DFF.tmp' to '../../../../../../Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2019.11.13-01.22.34:393][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.225
+[2019.11.13-01.22.34:393][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.225
+[2019.11.13-01.24.50:936][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.36.54:104][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.39.48:840][273]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.13-01.39.48:840][273]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.13-01.39.49:250][273]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.13-01.39.49:250][273]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.13-01.39.49:250][273]LogPackageName: SearchForPackageOnDisk took   0.409s, but failed to resolve S_ClothTarps_03.
+[2019.11.13-01.39.49:250][273]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.13-01.39.49:253][274]LogPackageName: SearchForPackageOnDisk took   0.372s, but failed to resolve S_ClothTarps_03.
+[2019.11.13-01.39.49:253][274]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.13-01.39.49:275][275]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.13-01.39.49:275][275]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.13-01.39.49:608][276]LogPackageName: SearchForPackageOnDisk took   0.136s, but failed to resolve S_ClothTarps_03.
+[2019.11.13-01.39.49:608][276]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.13-01.39.49:608][276]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.13-01.39.49:608][276]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.13-01.39.49:608][276]LogPackageName: SearchForPackageOnDisk took   0.134s, but failed to resolve S_ClothTarps_03.
+[2019.11.13-01.39.49:608][276]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2019.11.13-01.39.49:608][276]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.11.13-01.39.49:608][276]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.11.13-01.39.49:945][277]LogPackageName: SearchForPackageOnDisk took   0.142s, but failed to resolve S_ClothTarps_03.
+[2019.11.13-01.39.49:945][277]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
