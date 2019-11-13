@@ -613,3 +613,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-00.55.52:076][789]LogSavePackage: Moving '../../../../../../Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Saved/Untitled_1_Auto1F8674FD3436BDA7CB6C7989C058A37B4.tmp' to '../../../../../../Users/David Chan/Documents/Unreal Projects/Field/Battlefield/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
 [2019.11.13-00.55.52:082][789]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.182
 [2019.11.13-00.55.52:082][789]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
+[2019.11.13-01.04.57:273][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
